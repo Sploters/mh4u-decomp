@@ -1,4 +1,4 @@
-# mh4u-decomp [![Code](https://decomp.dev/mhvuze/mh4u-decomp.svg?mode=shield&measure=code&label=Code)](https://decomp.dev/mhvuze/mh4u-decomp) [![Functions](https://decomp.dev/mhvuze/mh4u-decomp.svg?mode=shield&measure=functions&label=Functions)](https://decomp.dev/mhvuze/mh4u-decomp)
+# mh4u-decomp [![Code](https://decomp.dev/mhvuze/mh4u-decomp.svg?mode=shield&measure=code&label=Code)](https://decomp.dev/mhvuze/mh4u-decomp) [![Fuzzy Code](https://decomp.dev/mhvuze/mh4u-decomp.svg?mode=shield&measure=fuzzy_match&label=Fuzzy%20Code)](https://decomp.dev/mhvuze/mh4u-decomp) [![Functions](https://decomp.dev/mhvuze/mh4u-decomp.svg?mode=shield&measure=functions&label=Functions)](https://decomp.dev/mhvuze/mh4u-decomp)
 
 Progress tracking for a matching decompilation of Monster Hunter 4 Ultimate (Nintendo 3DS, EU v1.1).
 
